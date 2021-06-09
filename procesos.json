@@ -1,28 +1,27 @@
+[
+    {
+        "nombre": "Proceso 1",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "materia": "Materia 1",
+        "area": "Area 1",
+        "creador": "Juan Perez",
+        "estado": "Estado 1"
+    },
+    {
+        "nombre": "Proceso 2",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing",
+        "area": "Area 2",
+        "materia": "Materia 2",
+        "creador": "Juan Perez",
+        "estado": "Estado 2"
+    },
+    {
+        "nombre": "Proceso 3",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit ...",
+        "area": "Area 1",
+        "materia": "Materia 3",
+        "creador": "Juan Perez",
+        "estado": "Inactivo"
+    }
 
-    [
-        {
-            "nombre": "Proceso 1",
-            "descripcion": "Lorem ipsum dolor sit amet.",
-            "materia": "Materia 1",
-            "area": "Area 1",
-            "creador": "Juan Perez",
-            "estado": "Estado 1"
-        },
-        {
-            "nombre": "Proceso 2",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing",
-            "area": "Area 2",
-            "materia": "Materia 2",
-            "creador": "Juan Perez",
-            "estado": "Estado 2"
-        },
-        {
-            "nombre": "Proceso 3",
-            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit ...",
-            "area": "Area 1",
-            "materia": "Materia 3",
-            "creador": "Juan Perez",
-            "estado": "Inactivo"
-        }
-
-    ]
+]
